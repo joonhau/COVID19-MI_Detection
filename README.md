@@ -5,7 +5,7 @@
 Deep Learning Approaches: <br /> 
 a) Custom CNN <br />
 b) Pre-trained ResNet50 <br />
-c) Pre-trained VGG16 <br /> <br /> <br />
+c) Pre-trained VGG16 <br /> <br /> 
 
 Moment Invariant Techniques:<br /> 
 a) Hu Moments <br />
